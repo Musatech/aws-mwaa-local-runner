@@ -1,5 +1,5 @@
 # downloaded from https://raw.githubusercontent.com/apache/airflow/constraints-2-0/constraints-3.7.txt
-# Editable install with no version control (apache-airflow==2.0.2)
+# Editable install with no version control (apache-airflow==2.2.2)
 APScheduler==3.6.3
 Authlib==0.15.3
 Babel==2.9.0
@@ -256,7 +256,7 @@ greenlet==1.0.0
 grpc-google-iam-v1==0.12.3
 grpcio-gcp==0.2.2
 grpcio==1.37.0
-gunicorn==19.10.0
+gunicorn==20.1.0
 hdfs==2.6.0
 hmsclient==0.1.1
 httplib2==0.17.4
